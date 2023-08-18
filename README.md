@@ -18,9 +18,13 @@ Using ML models to predict Wine Quality
 * `Ashley Song`
 * `Nicholas Wetherell`
 
+  
+
 - `REPO:` https://github.com/bsabar/finalproject-wine-quality-prediction
 
 - `Project Last Updated:`
+
+
 
 ### Data Sources
 |Name|Type|Description|Website|
