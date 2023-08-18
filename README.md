@@ -19,7 +19,6 @@ Using ML models to predict Wine Quality
 * `Nicholas Wetherell`
 
   
-
 - `REPO:` https://github.com/bsabar/finalproject-wine-quality-prediction
 
 - `Project Last Updated:`
@@ -30,7 +29,7 @@ Using ML models to predict Wine Quality
 |Name|Type|Description|Website|
 |---|---|---|---|
 |Wine Quality|CSV|Two datasets related to red and white vinho verde wine samples from the North of Portugal|[https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency](https://archive.ics.uci.edu/dataset/186/wine+quality)|
-|Spanish Wine Quality Dataset |CSV|This dataset is related to red variants of spanish wines. The dataset describes several popularity and description metrics their effect on it's quality.|https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset|
+|Spanish Wine Quality Dataset |CSV|This dataset is related to red variants of Spanish wines. The dataset describes several popularity and description metrics and their effect on its quality.|https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset|
 
 
 
