@@ -15,76 +15,67 @@
       </div>
     </div>
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-5">
           <div class="well">
             <h5>Acidity</h5>
             <select id="selDataset" onchange="optionChanged(this.value)"></select>
           </div>
-          <div class="row">
-            <div class="col-md-12">
-              <div class="well">
-                <h5>Sulfates</h5>
-                <select id="selDataset" onchange="optionChanged(this.value)"></select>
-              </div>
-              <div class="row">
-                <div class="col-md-12">
-                  <div class="well">
-                    <h5>Quality</h5>
-                    <select id="selDataset" onchange="optionChanged(this.value)"></select>
-                  </div>
-                  <div class="row">
-                    <div class="col-md-12">
-                      <div class="well">
-                        <h5>Density</h5>
-                        <select id="selDataset" onchange="optionChanged(this.value)"></select>
-                      </div>
-                      <div class="row">
-                        <div class="col-md-12">
-                          <div class="well">
-                            <h5>pH</h5>
-                            <select id="selDataset" onchange="optionChanged(this.value)"></select>
-                          </div>
-                          <div class="row">
-                            <div class="col-md-2">
-                              <div class="well">
-                                <h5>Fixed Acidity</h5>
-                                <select id="selDataset" onchange="optionChanged(this.value)"></select>
-                              </div>
-                              <div class="row">
-                                <div class="col-md-2">
-                                  <div class="well">
-                                    <h5>Volatile Acidity</h5>
-                                    <select id="selDataset" onchange="optionChanged(this.value)"></select>
-                                  </div>
-                                  <div class="row">
-                                    <div class="col-md-2">
-                                      <div class="well">
-                                        <h5>Citric Acid</h5>
-                                        <select id="selDataset" onchange="optionChanged(this.value)"></select>
-                                      </div>
-          <div class="panel panel-primary">
-            <div class="panel-heading">
-              <h3 class="panel-title">Demographic Info</h3>
-            </div>
-            <div id="sample-metadata" class="panel-body"></div>
-          </div>
-        </div>
-        <div class="col-md-5">
-          <div id="bar"></div>
-        </div>
-        <div class="col-md-5">
-          <div id="gauge"></div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12">
-          <div id="bubble"></div>
-        </div>
-      </div>
-    </div>
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script src="./static/js/app.js"></script>
-    <script src="./static/js/bonus.js"></script>
+
+
+  <!DOCTYPE html>
+  <html>
+  <head>
+  </head>
+  <body>
+  
+  <form>
+  <select id="mySelect">
+    <option>1</option>
+    <option>2</option>
+    <option>3</option>
+    <option>4</option>
+  </select>
+  </form>
+  
+  <p>There are <span id="demo">0</span> options in the list.</p>
+  
+  <script>
+  document.getElementById("demo").innerHTML =
+  document.getElementById("mySelect").length;
+  </script>
+  
   </body>
   </html>
+  <!DOCTYPE html>
+<html>
+<body>
+ 
+  <!DOCTYPE html>
+<html>
+<body>
+
+<form id="frm1" action="/action_page.php" method="post">
+  Acidity <input type="text" name="fname" value="Donald"><br>
+  Last name: <input type="text" name="lname" value="Duck"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<p>Click "Try it" to display the value of the enctype attribute of the form:</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("frm1").enctype;
+  document.getElementById("demo").innerHTML = x;
+}
+</script>
+
+</body>
+</html>
+
+
+  
+      
