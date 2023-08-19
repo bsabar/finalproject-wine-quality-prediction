@@ -1,0 +1,5 @@
+/* Apply responsive styling to images */
+.responsive-image {
+    max-width: 50%; /* Allow the image to expand up to its original width */
+    height: auto; /* Maintain image aspect ratio */
+}

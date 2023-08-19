@@ -1,8 +1,12 @@
-const imageElement = document.getElementById('imageElement');
-const changeImageButton = document.getElementById('changeImageButton');
+// JavaScript code
+const imageElement1 = document.getElementById('imageElement1');
+const description1 = document.getElementById('description1');
+const imageElement2 = document.getElementById('imageElement2');
+const description2 = document.getElementById('description2');
 
-// Add an event listener to the button
-changeImageButton.addEventListener('click', function() {
-    // Change the image source
-    imageElement.src = '/feature_importance.png'; // Replace with your image path
-});
+// You can change the image sources and descriptions as needed
+imageElement1.src = '/Resources/feature_importance.png';
+description1.textContent = 'Description for Image 1';
+
+imageElement2.src = '/Resources/confusion_matrix_tf.png';
+description2.textContent = 'Description for Image 2';
