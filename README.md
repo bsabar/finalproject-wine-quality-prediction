@@ -1,35 +1,53 @@
 # Demystifying ML - Wine Quality Prediction Final Project
 
-### Description 
-Using ML models to predict Wine Quality
+## Description 
+Final Group Project to work together to solve, analyze or visualize a problem using machine learning (ML) with the other technologies learned. The group decided to work on predicting wine quality and wanted to answer the following questions.
 
-### Tools Used
+- Which chemical factors have the biggest impact on wine quality?
+- Which chemical factors have the least impact on wine quality?
+- Use the machine learning model to predict wine quality based on user-imputed factors.
 
-- Python Pandas
-- Python Matplotlib
-- Tableau 
+## Tools Used
+- `Python Pandas`
+- `Python Matplotlib`
+- `Javascript`
+- `HTML`
+- `JS Plotly`
+- `Seaborn`
+- `ML Models`
 
-### Group Work and Credits
-
-* `Sophia Felix`
-* `Micah Galbadores`
-* `Karina Quintana`
-* `Beethoven Sabar`
-* `Ashley Song`
-* `Nicholas Wetherell`
+## Contributors
+* `Sophia Felix` -- @sophiafelix1
+* `Micah Galbadores` -- @micahrivs
+* `Karina Quintana` -- @kquint031
+* `Beethoven Sabar` - @bsabar
+* `Ashley Song` -- @ashleyysongg
+* `Nicholas Wetherell`-- @LaikaBoss10
 
   
-- `REPO:` https://github.com/bsabar/finalproject-wine-quality-prediction
+## REPO & Dates
+- `REPO`: https://github.com/bsabar/finalproject-wine-quality-prediction
+- `Project Last Updated:` Monday, 08/21/2023
 
-- `Project Last Updated:`
-
-
-
-### Data Sources
+## Data Sources
 |Name|Type|Description|Website|
 |---|---|---|---|
 |Wine Quality|CSV|Two datasets related to red and white vinho verde wine samples from the North of Portugal|[https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency](https://archive.ics.uci.edu/dataset/186/wine+quality)|
 |Spanish Wine Quality Dataset |CSV|This dataset is related to red variants of Spanish wines. The dataset describes several popularity and description metrics and their effect on its quality.|https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset|
+
+## Data & Data Delivery
+- Used `python pandas` and `python pathlib` to import and load the data in DataFrame
+- Used `delimiter` to separate each column neatly 
+- Added new “color” columns to distinguish each dataset 
+- Merge the two datasets together
+- Utilize `pd.get_dummies` for converting categorical variables into a set of binary columns to differentiate the wine color
+- Utilize `insull().sum()` in order to check the dataset for any null values
+
+## Machine Learning 
+
+
+
+## Visualization
 
 
 
