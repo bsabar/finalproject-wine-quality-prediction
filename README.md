@@ -35,7 +35,7 @@ Final Group Project to work together to solve, analyze or visualize a problem us
 |Spanish Wine Quality Dataset |CSV|This dataset is related to red variants of Spanish wines. The dataset describes several popularity and description metrics and their effect on its quality.|https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset|
 
 ## PowerPoint Presentation
-[Link to Slide Deck for more info] [https://docs.google.com/presentation/d/1vFakHtO5zMKndyLEQMZ0AD-M528y0c00CQf-maIvX-I/edit?usp=sharing]
+[Link to Slide Deck for more info] (https://docs.google.com/presentation/d/1vFakHtO5zMKndyLEQMZ0AD-M528y0c00CQf-maIvX-I/edit?usp=sharing)
 
 ## Data & Data Delivery
 - Used `python pandas` and `python pathlib` to import and load the data in DataFrame
