@@ -51,6 +51,9 @@ Final Group Project to work together to solve, analyze or visualize a problem us
 
 ## Visualization
 
-
+- The project's web page is structured using HTML and Bootstrap for styling.
+- We used javascript to set images and the descriptions.
+- CSS was used to adjust the style.
+  
 
   
