@@ -1,4 +1,16 @@
-#imageElement1 {
-    max-width: 100%; 
-    height: auto; 
+.container-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.row {
+    margin: 10px; /* Adjust as needed */
 }
