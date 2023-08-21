@@ -25,10 +25,10 @@ Final Group Project to work together to solve, analyze or visualize a problem us
 * `Nicholas Wetherell`-- @LaikaBoss10
 
 ## Mini Groups
-Data & Data Delivery  -- Ashley & Beethoven
-ML - Nick & Micah
-Visualizations -- Karina & Sophia
-Slide deck, documentation, repo -- all
+- Data & Data Delivery  -- Ashley & Beethoven
+- ML - Nick & Micah
+- Visualizations -- Karina & Sophia
+- Slide deck, documentation, repo -- all
   
 ## REPO & Dates
 - `REPO`: https://github.com/bsabar/finalproject-wine-quality-prediction
