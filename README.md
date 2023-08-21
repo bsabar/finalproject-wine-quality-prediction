@@ -35,13 +35,13 @@ These questions should help guide your exploration of both wine quality and colo
 * `Sophia Felix` -- @sophiafelix1
 * `Micah Galbadores` -- @micahrivs
 * `Karina Quintana` -- @kquint031
-* `Beethoven Sabar` - @bsabar
+* `Beethoven Sabar` -- @bsabar
 * `Ashley Song` -- @ashleyysongg
 * `Nicholas Wetherell`-- @LaikaBoss10
 
 ## Mini Groups
 - Data & Data Delivery  -- Ashley & Beethoven
-- ML - Nick & Micah
+- ML -- Nick & Micah
 - Visualizations -- Karina & Sophia
 - Slide deck, documentation, repo -- all
   
