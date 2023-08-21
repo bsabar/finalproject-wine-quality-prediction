@@ -23,6 +23,12 @@ Final Group Project to work together to solve, analyze or visualize a problem us
 * `Beethoven Sabar` - @bsabar
 * `Ashley Song` -- @ashleyysongg
 * `Nicholas Wetherell`-- @LaikaBoss10
+
+## Mini Groups
+Data & Data Delivery  -- Ashley & Beethoven
+ML - Nick & Micah
+Visualizations -- Karina & Sophia
+Slide deck, documentation, repo -- all
   
 ## REPO & Dates
 - `REPO`: https://github.com/bsabar/finalproject-wine-quality-prediction
@@ -37,19 +43,19 @@ Final Group Project to work together to solve, analyze or visualize a problem us
 ## PowerPoint Presentation
 [Link to Slide Deck for more info] (https://docs.google.com/presentation/d/1vFakHtO5zMKndyLEQMZ0AD-M528y0c00CQf-maIvX-I/edit?usp=sharing)
 
-## Data & Data Delivery
+## Data & Data Delivery (Ashley & Beethoven)
 - Used `python pandas` and `python pathlib` to import and load the data in DataFrame
 - Used `delimiter` to separate each column neatly 
 - Added new “color” columns to distinguish each dataset 
 - Merge the two datasets together
 - Utilize `pd.get_dummies` for converting categorical variables into a set of binary columns to differentiate the wine color
-- Utilize `insull().sum()` in order to check the dataset for any null values
+- Utilize `insull().sum()` in order to check the dataset for any null values to further clean up the datasets
 
-## Machine Learning 
+## Machine Learning (Nick & Micah)
 
 
 
-## Visualization
+## Visualization (Karina & Sophia)
 
 - The project's web page is structured using HTML and Bootstrap for styling.
 - We used javascript to set images and the descriptions.
